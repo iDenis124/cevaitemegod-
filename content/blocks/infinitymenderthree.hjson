@@ -1,0 +1,21 @@
+type: MendProjector
+localizedName: Infinite Mender
+reload: 900
+description: OP like fuck
+health: 69420
+range: 9000
+hasPower: false
+consumes: {
+  items: {
+    items: [
+      phase-fabric/1
+    ]
+    booster: true
+    optional: true
+  }
+}
+"requirements":[{"item":"copper","amount":1}]
+"research":"free-liquid"
+category: effect
+buildVisibility: shown
+alwaysUnlocked: true

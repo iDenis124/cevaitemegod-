@@ -1,0 +1,35 @@
+{
+type: GenericSmelter
+name: Pitainator
+description: Creator de pita lu Dumnezo cu semnatura.
+liquidCapacity: 50
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 30
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.7
+  items: {
+    items: [
+      thorium/5
+      titanium/5
+    ]
+  }
+  liquid: {
+    liquid: water
+    amount: 2
+  }
+}
+requirements: [
+  lead/50
+  thorium/80
+  silicon/60
+]
+category: crafting
+research: pulverizer
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: pita-lu-dumnezo/1
+}
