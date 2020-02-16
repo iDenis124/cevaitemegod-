@@ -1,14 +1,16 @@
-type: Conveyor
-name: Dumnezo conveyor
-description: OP doamne sfinte.
-requirements: [
-  titanium/10
-  copper/10
-  lead/10
-  silicon/10
-  pita-lu-dumnezo/20
-]
-category: distribution
-speed: 20
-buildCostMultiplier: 2
-research: titanium-conveyor
+{
+"type": "Conveyor",
+"name": "Dumnezo conveyor",
+"description": "OP doamne sfinte.",
+"requirements": [
+  "titanium/10",
+  "copper/10",
+  "lead/10",
+  "silicon/10",
+  "pita-lu-dumnezo/20",
+],
+"category": "distribution",
+"speed": 20,
+"buildCostMultiplier": 2,
+"research": "titanium-conveyor"
+}

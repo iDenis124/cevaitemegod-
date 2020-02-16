@@ -1,10 +1,12 @@
-name: Pita lu Dumnezo Wall
-description: OP dal dreaqu din nou
-type: Wall
-health: 6969
-size: 2
-requirements: [
-  pita-lu-dumnezo/50
-]
-category: defense
-research: thorium-wall
+{
+"name": "Pita lu Dumnezo Wall",
+"description": "OP dal dreaqu din nou",
+"type": "Wall",
+"health": 6969,
+"size": 2,
+"requirements": [
+  "pita-lu-dumnezo/50",
+],
+"category": defense",
+"research": "thorium-wall"
+}

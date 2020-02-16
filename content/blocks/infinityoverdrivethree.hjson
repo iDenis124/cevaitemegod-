@@ -1,23 +1,25 @@
-type: OverdriveProjector
-localizedName: Infinite Overdrive Power Three
-speedBoost: 6
-speedBoostPhase: 3
-description: An Overdrive with infinite range. Quadruple the boost compared to the original.
-health: 69420
-range: 2000
-hasPower: false
-consumes: {
-  items: {
-    items: [
-      phase-fabric/1
-    ]
-    booster: true
-    optional: true
+{
+"type": "OverdriveProjector",
+"localizedName": "Infinite Overdrive Power",
+"speedBoost": 6,
+"speedBoostPhase": 3,
+"description": "OP again like really.",
+"health": 69420,
+"range": 2000,
+"hasPower": false,
+"consumes": {
+  "items": {
+    "items": [
+      "phase-fabric/1"
+    ],
+    "booster": true
+    "optional": true
   }
+},
+"category": "effect",
+"requirements":[{"item":"copper","amount":1}],
+"research":"free-liquid",
+"category": "effect",
+"buildVisibility": "sandboxOnly",
+"alwaysUnlocked": true
 }
-category: effect
-"requirements":[{"item":"copper","amount":1}]
-"research":"free-liquid"
-category: effect
-buildVisibility: shown
-alwaysUnlocked: true

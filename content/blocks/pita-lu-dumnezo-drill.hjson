@@ -1,29 +1,29 @@
 {
-name: Drillul lu Dumnezo
-description: Hăi păi cum să spun e OP. Trebe folosit dumnezo conveyor că titanium nu-i destul de bun
-type: Drill
-size: 3
-tier: 4
-drillTime: 1
-consumes: {
-  power: 5
-  liquid: {
-    liquid: cryofluid
-    amount: 0.1
-    booster: true
+"name": "Drillul lu Dumnezo",
+"description": "Hăi păi cum să spun e OP. Trebe folosit dumnezo conveyor că titanium nu-i destul de bun",
+"type": "Drill",
+"size": 3,
+"tier": 4,
+"drillTime": 1,
+"consumes": {
+  "power": 5,
+  "liquid": {
+    "liquid": "cryofluid",
+    "amount": 0.1,
+    "booster": true,
   }
-  items: {
-    items: [
-      pita-lu-dumnezo/5
+  "items: {
+    "items: [
+      "pita-lu-dumnezo/5",
     ]
   }
-}
-requirements: [
-  silicon/400
-  graphite/200
-  pita-lu-dumnezo/100
-]
-item: pita-lu-dumnezeu/5
-category: production
-research: blast-drill
+},
+"requirements": [
+  "silicon/400",
+  "graphite/200",
+  "pita-lu-dumnezo/100",
+],
+"item": "pita-lu-dumnezeu/5",
+"category": "production",
+"research": "blast-drill"
 }

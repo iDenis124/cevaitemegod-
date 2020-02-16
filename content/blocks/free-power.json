@@ -1,7 +1,8 @@
 {
-	"type": "PowerSource"
-	"name": "Power Generator"
-	"description": "Generates free power."
-	"requirements":[{"item":"copper","amount":1}]
-	"research":"free-liquid"
+	"type": "PowerSource",
+	"name": "Power Generator",
+	"description": "Generates free power.",
+	"requirements":[{"item":"copper","amount":1}],
+	"research":"free-liquid",
+	"buildVisibility": "sandboxOnly"
 }
