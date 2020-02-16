@@ -1,0 +1,7 @@
+{
+	"type": "LiquidSource"
+	"name": "Liquid Generator"
+	"description": "Produces free liquids."
+	"requirements":[{"item":"copper","amount":1}]
+	"research":"free-item"
+}

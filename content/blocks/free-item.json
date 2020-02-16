@@ -1,0 +1,7 @@
+{
+	"type": "ItemSource"
+	"name": "Material Generator"
+	"description": "Generates free materials."
+	"requirements":[{"item":"copper","amount":1}]
+	"research":"core-shard"
+}
