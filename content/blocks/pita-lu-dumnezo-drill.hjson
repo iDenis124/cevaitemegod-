@@ -12,8 +12,8 @@
     "amount": 0.1,
     "booster": true,
   }
-  "items: {
-    "items: [
+  "items": {
+    "items": [
       "pita-lu-dumnezo/5",
     ]
   }

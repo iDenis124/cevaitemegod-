@@ -7,6 +7,6 @@
 "requirements": [
   "pita-lu-dumnezo/50",
 ],
-"category": defense",
+"category": "defense",
 "research": "thorium-wall"
 }
