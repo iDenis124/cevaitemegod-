@@ -11,6 +11,6 @@
 ],
 "category": "distribution",
 "speed": 20,
-"buildCostMultiplier": 2,
+"buildCostMultiplier": 0.5,
 "research": "titanium-conveyor"
 }
