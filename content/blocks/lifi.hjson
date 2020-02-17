@@ -1,6 +1,6 @@
 {
-    "name": "True Wireless Power",
-    "description": "Like a power node, but everywhere and truly wireless.",
+    "name": "True Wireless Power WIP",
+    "description": "(Work in progress)Like a power node, but everywhere and truly wireless.",
     "destructible": true,
     "solid": true,
     "health": 60,
@@ -13,7 +13,7 @@
         "lead/50",
         "thorium/80",
         "silicon/60",
-        "pita-lu-dumnezo/20",
+        "pita/10",
     ],
     "research": "power-node"
 }

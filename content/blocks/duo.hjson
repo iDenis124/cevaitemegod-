@@ -1,16 +1,16 @@
 {
-  "name": "Dumnezo Duo",
-  "description": "OP rau da ai de pula mea nu ai idee",
+  "name": "God's duo",
+  "description": "It's supposed to be a really OP turret, but its just broken and it lags the game",
 	"type": "ItemTurret",
 	"health": 500,
 	"size": 1,
 	"reload": 1,
 	"range": 9999999,
 	"rotatespeed": 100,
-	"targerAir": true,
+	"targetAir": true,
 	"maxAmmo": 1000,
 	"ammo": {
-		"pita-lu-dumnezo": {
+		"pita": {
 			"type": "BasicBulletType",
 			"speed": 99999,
 			"damage": 99999,
@@ -29,7 +29,7 @@
 	"requirements": [
 		"titanium/20",
 		"thorium/30",
-		"pita-lu-dumnezo/30",
+		"pita/30",
     	"silicon/50"
 	],
 	"category": "turret",

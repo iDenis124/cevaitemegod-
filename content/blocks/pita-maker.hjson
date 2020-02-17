@@ -1,7 +1,7 @@
 {
 "type": "GenericSmelter",
-"name": "Pitainator",
-"description": "Creator de pita lu Dumnezo cu semnatura.",
+"name": "Pita Maker",
+"description": "Smelter for pita, signed by God himself.",
 "liquidCapacity": 50,
 "size": 2,
 "hasPower": true,
@@ -24,14 +24,14 @@
   }
 },
 "requirements": [
-  "lead/500",
-  "thorium/800",
-  "silicon/600",
+  "lead/100",
+  "thorium/100",
+  "silicon/100",
   "copper/100",
 ],
 "category": "crafting",
 "research": "pulverizer",
 "idleSound": "respawning",
 "idleSoundVolume": 0.5,
-"outputItem": "pita-lu-dumnezo/2",
+"outputItem": "pita/2",
 }

@@ -1,15 +1,13 @@
 {
 "type": "Conveyor",
-"name": "Dumnezo conveyor",
-"description": "OP doamne sfinte.",
+"name": "God's conveyor",
+"description": "Very speedy, but has a lower health than titanium",
 "requirements": [
-  "titanium/10",
   "copper/10",
-  "lead/10",
-  "silicon/10",
-  "pita-lu-dumnezo/20",
+  "pita/5",
 ],
 "category": "distribution",
+"health": 10,
 "speed": 20,
 "buildCostMultiplier": 0.5,
 "research": "titanium-conveyor"

@@ -1,11 +1,11 @@
 {
-"name": "Pita lu Dumnezo Wall",
-"description": "OP dal dreaqu din nou",
+"name": "God's wall",
+"description": "nice",
 "type": "Wall",
 "health": 6969,
 "size": 2,
 "requirements": [
-  "pita-lu-dumnezo/50",
+  "pita/50",
 ],
 "category": "defense",
 "research": "thorium-wall"

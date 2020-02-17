@@ -1,6 +1,6 @@
 {
-"name": "Drillul lu Dumnezo",
-"description": "Hăi păi cum să spun e OP. Trebe folosit dumnezo conveyor că titanium nu-i destul de bun",
+"name": "God's drill",
+"description": "Titanium conveyor might not be able to keep up depending on the item mining. Using the new conveyor is recommended.",
 "type": "Drill",
 "size": 3,
 "tier": 4,
@@ -12,18 +12,12 @@
     "amount": 0.1,
     "booster": true,
   }
-  "items": {
-    "items": [
-      "pita-lu-dumnezo/5",
-    ]
-  }
 },
 "requirements": [
   "silicon/400",
   "graphite/200",
-  "pita-lu-dumnezo/100",
+  "pita/100",
 ],
-"item": "pita-lu-dumnezeu/5",
 "category": "production",
 "research": "blast-drill"
 }
