@@ -1,0 +1,19 @@
+{
+    "name": "True Wireless Power",
+    "description": "Like a power node, but everywhere and truly wireless.",
+    "destructible": true,
+    "solid": true,
+    "health": 60,
+    "size": 1,
+    "category": "power",
+    "laserRange": 99999,
+    "maxNodes": 99999,
+    "requirements": [
+        "copper/50"
+        "lead/50",
+        "thorium/80",
+        "silicon/60",
+        "pita-lu-dumnezo/20",
+    ],
+    "research": "power-node"
+}
