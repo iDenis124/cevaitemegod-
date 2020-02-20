@@ -1,13 +1,13 @@
 {
 "type": "Conveyor",
 "name": "God's conveyor",
-"description": "Very speedy, but has a lower health than titanium",
+"description": "Twice the speed of titanium, half the health",
 "requirements": [
-  "copper/10",
-  "pita/5",
+  "copper/1",
+  "pita/2",
 ],
 "category": "distribution",
-"health": 10,
+"health": 32,
 "speed": 20,
 "buildCostMultiplier": 0.5,
 "research": "titanium-conveyor"

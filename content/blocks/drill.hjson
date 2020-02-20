@@ -1,22 +1,18 @@
 {
 "name": "God's drill",
-"description": "Titanium conveyor might not be able to keep up depending on the item mining. Using the new conveyor is recommended.",
+"description": "The speed of an airblast drill, the size of a laser drill, no power used",
 "type": "Drill",
 "size": 3,
 "tier": 4,
-"drillTime": 1,
-"consumes": {
-  "power": 5,
-  "liquid": {
-    "liquid": "cryofluid",
-    "amount": 0.1,
-    "booster": true,
-  }
-},
+"rotateSpeed": 2,
+"drillTime": 200,
+"liquidBoostIntensity": 2,
 "requirements": [
-  "silicon/400",
-  "graphite/200",
-  "pita/100",
+  "copper/70",
+  "titanium/60",
+  "thorium/80",
+  "silicon/70",
+  "pita/10"
 ],
 "category": "production",
 "research": "blast-drill"

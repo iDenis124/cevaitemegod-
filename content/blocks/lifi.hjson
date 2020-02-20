@@ -8,6 +8,7 @@
     "category": "power",
     "laserRange": 99999,
     "maxNodes": 99999,
+    "layer": "power",
     "requirements": [
         "copper/50"
         "lead/50",

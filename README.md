@@ -8,3 +8,5 @@ A mod for Mindustry that adds God's items to the game.
 - New wall
 - New drill
 - New power node (WIP it doesn't connect to anything)
+## Todo
+- Holy water
