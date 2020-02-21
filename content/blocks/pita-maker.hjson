@@ -18,10 +18,6 @@
       "plastanium/5",
     ]
   }
-  "liquid": {
-    "liquid": "water",
-    "amount": 2,
-  }
 },
 "requirements": [
   "lead/100",
